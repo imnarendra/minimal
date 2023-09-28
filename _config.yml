@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Narendra Jha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/narendraj/">LinkedIn</a> |
+  <a href="https://github.com/imnarendra">GitHub</a>
+ 
+  <br>  
+ Technical Manager with 14+ years of expertise in development, organizing business operations, financial oversight and resource management to achieve smooth flow and project operations. Extensive experience as a Technical Project Manager, overseeing the planning, execution, and delivery of complex software projects. Proficient in Java, J2EE, Spring Boot, MS SQL Server, Microservices, DevOps, Advanced Problem Solving, Team Management, Project Architect, and Project Management with a strong understanding of software development principles and methodologies. Proven track record of successfully managing project timelines, budgets, and resources, ensuring on-time and on-budget project completion. Excellent leadership and communication skills, capable of effectively coordinating with cross-functional teams and stakeholders to drive project success. Detail-oriented and highly organized, with the ability to prioritize tasks, solve problems, and make critical decisions in fast-paced environments.
+Strong analytical and problem-solving skills, adept at identifying risks and implementing effective mitigation strategies.
+Dedicated and result-driven professional, committed to delivering high-quality projects that meet or exceed client expectations.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
